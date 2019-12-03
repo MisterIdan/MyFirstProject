@@ -1,2 +1,2 @@
 # MyFirstProject
-It is my the first project for my girlfriend Marina. Data Base
+Это моя первая мини-база данных написанная на Питоне без использования библиотек с помощью ассотиативных списков
