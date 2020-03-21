@@ -1,2 +1,2 @@
 # MyFirstProject
-Это моя первая мини-база данных написанная на Питоне без использования библиотек с помощью ассотиативных списков
+This is my first mini-database written in Python without using libraries with using associative lists
